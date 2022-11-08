@@ -1,13 +1,8 @@
-- 👋 Hi, I’m @bartosz1998
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🙋 About me
+---------------------------------------------------------------------------
+Welcome 👋 I'm Bartosz. 
 
-<!---
-bartosz1998/bartosz1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# Welcome
+I'm embedded developer and technical student . I love learning new thing and create interesting project. I'm looking for job to develop my skill.
 
-Hi! I'm Bartek
+⚒️ Tech Stack
+---------------------------------------------------------------------------

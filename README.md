@@ -6,3 +6,4 @@ I'm embedded developer and technical student . I love learning new thing and cre
 
 ⚒️ Tech Stack
 ---------------------------------------------------------------------------
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,c,cpp,linux,html,css,js&perline=3)](https://skillicons.dev)
